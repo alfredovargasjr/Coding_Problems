@@ -8,6 +8,11 @@ public class reverse_string {
         string_letterCounter(s);
     }
 
+    /**
+     * Leet Code 344
+     * @param s
+     * @return
+     */
     public static String reverseString(String s){
         char[] a = new char[s.length()];
         int pos = s.length() - 1;
