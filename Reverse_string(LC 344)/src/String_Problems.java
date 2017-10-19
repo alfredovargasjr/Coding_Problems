@@ -1,8 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class reverse_string {
-
+public class String_Problems {
     public static void main(String[] args){
         String s = "Hello";
         string_letterCounter(s);
